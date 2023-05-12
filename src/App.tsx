@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          {process.env.REACT_APP_NOT_SECRET_CODE1} Learn {process.env.REACT_APP_NOT_SECRET_CODE} React {process.env.REACT_APP_NOT_SECRET_CODE2}
+          {process.env.REACT_APP_NOT_SECRET_CODE1} G {process.env.REACT_APP_NOT_SECRET_CODE} R {process.env.REACT_APP_NOT_SECRET_CODE2}
         </a>
       </header>
     </div>
